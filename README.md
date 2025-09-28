@@ -16,4 +16,18 @@
 
 
 
+## 2025's Latest Android Keep Alive, Compatible with Android 16
 
+1. Remains alive even when not forced to stop
+
+2. Fully compatible with Android 15 even when forced to stop
+
+3. Compatible with Android 16 on some models even when forced to stop, currently tested on the Pixel 6
+
+4. The above tested models have all been tested on overseas phones; domestic phones are not considered.
+
+5. Either source code or SDK package is available.
+
+#### If you have any questions, please contact TG: https://t.me/KeepAliveForAndroid
+
+![TG QR Code](https://github.com/hnscf/KeepAliveForAndroid/blob/main/KeepAliveForAndroid.png)
