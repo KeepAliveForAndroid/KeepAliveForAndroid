@@ -10,6 +10,8 @@
 
 5、源码或者SDK包都可 
 
+微信：TanYong-1228
+
 #### 有需要的请联系 TG : https://t.me/KeepAliveForAndroid
 
 ![TG二维码](https://github.com/hnscf/KeepAliveForAndroid/blob/main/KeepAliveForAndroid.png)
@@ -28,6 +30,10 @@
 
 5. Either source code or SDK package is available.
 
+Wechat: TanYong-1228
+
 #### If you have any questions, please contact TG: https://t.me/KeepAliveForAndroid
+
+
 
 ![TG QR Code](https://github.com/hnscf/KeepAliveForAndroid/blob/main/KeepAliveForAndroid.png)
